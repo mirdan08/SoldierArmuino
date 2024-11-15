@@ -7,7 +7,7 @@ This repo is intended to document the work done by me and @TommyTokk, the projec
 The project consists in the realization of small electrical mannequin that simulates a wounded soldier when people enter the room it is placed in.
 
 The movements are done with a servo motor while to detect people enterig the room we used a PIR sensor. 
-Along with movements we have put in place a small audio speaker with a custom made sound simulating war noises outside a tent, made by @Mitra98t.
+Along with movements we have put in place a small audio speaker with a custom made sound simulating war noises outside a tent.
 
 ### the circuit
 ![circuit image](images/immagine.png)
@@ -34,3 +34,5 @@ The motor is placed inside the mannequin arm to move it while the PIR sensor is 
 ## final notes
 
 This repo is intended for the commissioner as a manual and documentation of our work, we where inexperienced during the realization but managed to create a solid working implementation.
+
+Special thanks to @Mitra98t for the custom made war sounds.
