@@ -33,6 +33,6 @@ The motor is placed inside the mannequin arm to move it while the PIR sensor is 
 
 ## final notes
 
-This repo is intended for the commissioner as a manual and documentation of our work, we where inexperienced during the realization but managed to create a solid working implementation.
+This repo is intended for the commissioner as a manual and documentation of our work, we were inexperienced during the realization but managed to create a solid working implementation.
 
 Special thanks to @Mitra98t for the custom made war sounds.
