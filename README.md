@@ -23,7 +23,7 @@ The main components are:
 - PIR sensor
 - generic audio speaker
 
-Our project was made using a perforboard where both music player and arduino were soldered as you can see from the images of the prototype below.
+Our project was made using a perfboard where both music player and arduino are attached to header pins soldered on the board as you can see from the images of the prototype below.
 
 <img src="images/perfboard_front.jpg" width="425"/> <img src="images/perfboard_back.jpg" width="425"/> 
 ## how it works 
