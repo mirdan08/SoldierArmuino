@@ -25,8 +25,7 @@ The main components are:
 
 Our project was made using a perforboard where both music player and arduino were soldered as you can see from the images of the prototype below.
 
-![perfboard front](images/perfboard_front.jpg)![perfboard back](images/perfboard_back.jpg)
-
+<img src="images/perfboard_front.jpg" width="425"/> <img src="images/perfboard_back.jpg" width="425"/> 
 ## how it works 
 We have constant poll to the PIR sensor from the arduino whenever a movement occurs in front of the sensor the arduino detects fires the signal to the player to play the sound and moves the motor.
 
